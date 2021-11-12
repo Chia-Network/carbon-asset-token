@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.6](https://github.com/Chia-Network/carbon-asset-token/compare/v0.0.5...v0.0.6) (2021-11-12)
+
+
+### Bug Fixes
+
+* convert px to rem ([1861453](https://github.com/Chia-Network/carbon-asset-token/commit/1861453d071b51b7a0c50c68e1583a530ac6d65f))
+* give a more helpful text for the search placeholder ([7aa6ed7](https://github.com/Chia-Network/carbon-asset-token/commit/7aa6ed7600b518e4c16b0a4b841d33023ec0a283))
+
 ### [0.0.5](https://github.com/Chia-Network/carbon-asset-token/compare/v0.0.4...v0.0.5) (2021-11-11)
 
 
